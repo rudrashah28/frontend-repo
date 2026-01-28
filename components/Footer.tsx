@@ -24,8 +24,8 @@ const Footer = () => {
               </div>
 
               <div className="leading-tight">
-                <p className="text-lg font-bold tracking-tight">
-                  Helly <span className="text-primary">Equipment</span>
+                <p className="text-lg font-bold tracking-tight text-white">
+                    Helly Equipment
                 </p>
                 <p className="text-xs font-bold uppercase tracking-[0.25em] text-muted-foreground">
                   & Leasing
